@@ -1,0 +1,11 @@
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+.pytest_cache/
+playwright_profile/
+RESULTADO.xlsx
+Tambores.xlsx
+*.log
